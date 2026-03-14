@@ -14,7 +14,7 @@ Body{
     max-width:600px;
     /* border:1px solid white; */
     display: flex;
-    margin:auto;
+    margin:0px auto;
     justify-content:center;
     flex-direction:column;
     text-align:center;
@@ -41,7 +41,7 @@ footer{
     border-radius:1em;
     /* justify-self: center; */
     align-self: center;
-    background-image: url("/images/logo.png");
+    background-image: url("Assets/logo.png");
     background-size: contain;
     background-color: #ffff;
 }

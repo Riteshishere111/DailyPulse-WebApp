@@ -1,3 +1,3 @@
-# DailyPulse-WebApp
+# DailyPlus-WebApp
 Create Habit tracker WebApp 
 
